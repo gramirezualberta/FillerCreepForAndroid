@@ -2,6 +2,7 @@ FillerCreepForAndroid
 =====================
 
 A Game that Attempts to Demo MVC for Android
+joshua's improved
 
 License
 =======
